@@ -18,6 +18,7 @@ sections:
   match: "**/*"
   templates:
   - works
+  - works
 - type: directory
   path: portfolio/journal
   label: Journal
